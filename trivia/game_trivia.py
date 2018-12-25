@@ -108,4 +108,3 @@ def print_text(screen, font, x, y, text, color=(255, 255, 255), shadow=True):
                         trivia.handle_input(3)
                     elif event.key == pygame.K_4:
                         trivia.handle_input(4)
-                    
